@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* External file used to apply css to the index.html file within the first forked css foundations exercise of TOP */
+
+/* External CSS, which is required for the  div element */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
