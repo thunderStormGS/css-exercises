@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Class declarations of the first element */
+
+.button-one {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* Class declarations for the second element */
+
+.button-two {
+    background-color: #ffff00;
+}
+
+/* Class declarations shared by both elements */
+
+.button-one,
+.button-two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
